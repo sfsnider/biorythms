@@ -1,1 +1,1 @@
-This script calculates a persons biorythm.
+This script calculates a persons biorythm. 
